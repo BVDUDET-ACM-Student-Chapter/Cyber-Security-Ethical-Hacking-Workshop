@@ -6,4 +6,6 @@ Welcome to the Cyber Security Ethical Hacking Workshop! Below you'll find links 
 
 - [Setting Up a Virtual Machine](setup_vm_document.md): This document provides instructions for setting up a virtual machine environment using VirtualBox/VMware and a pre-configured Kali Linux image.
 
-Feel free to explore the resources provided and reach out if you need any assistance!
+
+If you need any assistance during the setup process, please feel free to reach out to:
+ACM Technical Head: Kamran Khan, Mob No. +91 8097905879
