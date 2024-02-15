@@ -12,10 +12,10 @@ For the purpose of this guide, we'll use VirtualBox as it's free and widely acce
 ## Step 2: Download and Install VirtualBox
 Visit the [VirtualBox website](https://www.virtualbox.org/) and download the installer for your operating system.
 Follow the installation instructions provided on the website or included with the installer.
-Step 3: Download a Virtual Machine Image
+## Step 3: Download a Virtual Machine Image
 There are various pre-configured virtual machine images available for security testing and ethical hacking. One popular option is Kali Linux, a Debian-based Linux distribution designed for digital forensics and penetration testing.
 
-Go to the [Kali Linux downloads page](https://www.kali.org/get-kali/#kali-virtual-machines) and download the appropriate version for VirtualBox.
+Go to the [Kali Linux downloads page](https://www.kali.org/get-kali/#kali-virtual-machines) `Fast Download via Torrent`. and download the appropriate version for VirtualBox.
 Ensure you download the Pre-builts VMs - VirtualBox image specifically designed for VirtualBox.
 ## Step 4: Import Pre-Made Kali VirtualBox VM
 Importing the Kali VirtualBox image is very easy.
